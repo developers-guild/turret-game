@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Version_Alpha_0.1.unity
+- path: Assets/Scenes/Version_PreClassic_0.1.unity
   isLoaded: 1
   isActive: 1

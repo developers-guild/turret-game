@@ -15,6 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
     y: 42
     width: 1920
@@ -23,13 +24,18 @@ MonoBehaviour:
   m_Title: 
   m_RootView: {fileID: 2}
 =======
+=======
+>>>>>>> nick
     y: 43
     width: 1920
     height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
+<<<<<<< HEAD
 >>>>>>> Added basic player movement
+=======
+>>>>>>> nick
   m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
@@ -61,6 +67,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
@@ -70,6 +77,12 @@ MonoBehaviour:
 =======
   controlID: 30
 >>>>>>> Added basic player movement
+=======
+  m_MinSize: {x: 681, y: 498}
+  m_MaxSize: {x: 14004, y: 14048}
+  vertical: 0
+  controlID: 69
+>>>>>>> nick
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -85,6 +98,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
     x: 0
     y: 0
@@ -96,6 +110,10 @@ MonoBehaviour:
 =======
     x: 1530
     y: 0
+=======
+    x: 1530
+    y: 0
+>>>>>>> nick
     width: 390
     height: 947
   m_MinSize: {x: 277, y: 74}
@@ -132,8 +150,13 @@ MonoBehaviour:
     y: 0
     width: 380
     height: 573
+<<<<<<< HEAD
   m_MinSize: {x: 202, y: 224}
   m_MaxSize: {x: 4002, y: 4024}
+=======
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> nick
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -158,6 +181,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
     y: 30
@@ -181,6 +205,8 @@ MonoBehaviour:
   m_LastSelected: 0
 >>>>>>> Added temp graphics
 =======
+=======
+>>>>>>> nick
     y: 573
     width: 1530
     height: 374
@@ -212,6 +238,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
     width: 1530
     height: 988
@@ -220,6 +247,8 @@ MonoBehaviour:
   vertical: 1
   controlID: 6595
 =======
+=======
+>>>>>>> nick
     width: 1920
     height: 997
   m_MinSize: {x: 950, y: 300}
@@ -245,6 +274,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
     width: 1530
     height: 697
@@ -253,6 +283,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 6596
 =======
+=======
+>>>>>>> nick
     width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -275,6 +307,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
     y: 0
     width: 204
@@ -287,6 +320,8 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 =======
+=======
+>>>>>>> nick
     y: 977
     width: 1920
     height: 20
@@ -310,6 +345,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 204
     y: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
     width: 246
@@ -337,6 +373,14 @@ MonoBehaviour:
   vertical: 1
   controlID: 31
 >>>>>>> Added basic player movement
+=======
+    width: 1530
+    height: 947
+  m_MinSize: {x: 404, y: 498}
+  m_MaxSize: {x: 10002, y: 14048}
+  vertical: 1
+  controlID: 50
+>>>>>>> nick
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,6 +398,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 450
     y: 0
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
     width: 1080
@@ -383,6 +428,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 32
 >>>>>>> Added basic player movement
+=======
+    width: 1530
+    height: 573
+  m_MinSize: {x: 404, y: 224}
+  m_MaxSize: {x: 8004, y: 4024}
+  vertical: 0
+  controlID: 51
+>>>>>>> nick
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -398,6 +451,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
     x: 0
@@ -416,6 +470,9 @@ MonoBehaviour:
 =======
     x: 380
 >>>>>>> Added basic player movement
+=======
+    x: 380
+>>>>>>> nick
     y: 0
     width: 1150
     height: 573
@@ -556,6 +613,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
     x: 0
@@ -568,11 +626,16 @@ MonoBehaviour:
     width: 1514
     height: 348
 =======
+=======
+>>>>>>> nick
     x: 0
     y: 646
     width: 1528
     height: 354
+<<<<<<< HEAD
 >>>>>>> Added basic player movement
+=======
+>>>>>>> nick
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -586,6 +649,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -593,13 +657,28 @@ MonoBehaviour:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Josh\Desktop\turret-game\TurretGame
+=======
+    - Assets/Scripts/Character Classes
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scripts/Character Classes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\nickr\Documents\turret-game repo\turret-game\TurretGame
+>>>>>>> nick
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 302f0000
     m_LastClickedID: 12080
     m_ExpandedIDs: 00000000102d000000ca9a3b
+=======
+    m_SelectedIDs: 6a280000
+    m_LastClickedID: 10346
+    m_ExpandedIDs: 00000000f8250000a026000000ca9a3b
+>>>>>>> nick
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -627,7 +706,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000102d0000
+=======
+    m_ExpandedIDs: 00000000f8250000
+>>>>>>> nick
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -738,6 +821,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
     x: 8
     y: 81
@@ -745,15 +829,21 @@ MonoBehaviour:
     height: 543
 >>>>>>> Added temp graphics
 =======
+=======
+>>>>>>> nick
     x: 0
     y: 73
     width: 378
     height: 553
+<<<<<<< HEAD
 >>>>>>> Added basic player movement
+=======
+>>>>>>> nick
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 74010000
       m_LastClickedID: 0
 <<<<<<< refs/remotes/origin/master
@@ -765,6 +855,11 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 6ef7ffffe82e0000f62e0000
 >>>>>>> Added basic player movement
+=======
+      m_SelectedIDs: 7c280000
+      m_LastClickedID: 0
+      m_ExpandedIDs: d6fbffff
+>>>>>>> nick
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -843,10 +938,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 450
     y: 72
     width: 1076
     height: 677
+=======
+    x: 380
+    y: 73
+    width: 1146
+    height: 553
+>>>>>>> nick
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 6e7a3a2f1ff675b4b87bc87634645410
   m_SceneLighting: 1
